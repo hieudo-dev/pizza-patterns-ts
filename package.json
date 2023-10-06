@@ -1,0 +1,21 @@
+{
+  "name": "pizza-patterns-ts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieudo-dev/pizza-patterns-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieudo-dev/pizza-patterns-ts/issues"
+  },
+  "homepage": "https://github.com/hieudo-dev/pizza-patterns-ts#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
