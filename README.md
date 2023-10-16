@@ -40,7 +40,7 @@ Now you're ready to explore the pizza patterns and adapt them for your projects.
 ### Creational Patterns
 
 - [x] Factory Method
-- [ ] Builder
+- [x] Builder
 - [x] Singleton
 
 ### Structural Patterns
